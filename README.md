@@ -2,7 +2,7 @@
 
 ## Members
 
-### 1) Yadu Krishnan (Mechanical)
+### 1) Yadu Krishnan (Mechanical) (Team Lead)
 ### 2) Grace Paul (Mechanical)
 ### 3) Nilavroh Bandyopadhyay (Electronics)
 ### 4) Tilak Kamani (Electronics)
